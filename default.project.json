@@ -1,0 +1,15 @@
+{
+  "name": "Queue",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "Queue": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
